@@ -18,7 +18,8 @@ cd stack-ray
 cargo build --release
 cargo run
 ```
-[!Note] No Releases made so far!!!
+[!Note] So far windows release in mingw toolchain.
+[!Note] MSVC toolchain and Linux/Mac should build from source.
 
 ![Demo Image](example.png)
 
