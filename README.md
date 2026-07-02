@@ -13,8 +13,8 @@ cargo add raylib
 cargo add rand
 cargo add chrono
 
-git clone
-cd
+git clone https://github.com/halfdisposal/stack-ray.git
+cd stack-ray
 cargo build --release
 cargo run
 ```
