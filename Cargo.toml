@@ -1,5 +1,5 @@
 [package]
-name = "raylib_tutorial"
+name = "stack-ray"
 version = "0.1.0"
 edition = "2024"
 
