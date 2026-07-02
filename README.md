@@ -19,6 +19,7 @@ cargo build --release
 cargo run
 ```
 [!Note] So far windows release in mingw toolchain.
+
 [!Note] MSVC toolchain and Linux/Mac should build from source.
 
 ![Demo Image](example.png)
