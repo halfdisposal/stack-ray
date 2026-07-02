@@ -18,6 +18,7 @@ cd stack-ray
 cargo build --release
 cargo run
 ```
+[!Note] No Releases made so far!!!
 
 ![Demo Image](example.png)
 
