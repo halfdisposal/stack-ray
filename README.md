@@ -7,6 +7,17 @@ A tile stacking game in raylib and rust
 - Chrono
 - and ofcourse Rust
 
+# Build From Source
+```bash
+cargo add raylib
+cargo add rand
+cargo add chrono
+
+git clone
+cd
+cargo build --release
+cargo run
+```
 
 ![Demo Image](example.png)
 
